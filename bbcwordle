@@ -1,4 +1,4 @@
-REM Half finished, but demonstrates the concept. 
+REM Half finished, but demonstrates the concept!
 
 MODE 1
 VDU 19,1,2,0,0,0
